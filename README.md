@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=386dbd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Gustavo+Pequeno;I'm+27+years+old;I'm+from+Brazil;I'm+Software+Testing+and+Quality+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Guto2404&show_icons=true&count_private=true&hide_border=true&title_color=386dbd&icon_color=386dbd&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guto2404&layout=compact&hide_border=true&title_color=386dbd&text_color=386dbd&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gustavo-pequeno&show_icons=true&count_private=true&hide_border=true&title_color=386dbd&icon_color=386dbd&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-pequeno&layout=compact&hide_border=true&title_color=386dbd&text_color=386dbd&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Guto2404&bg_color=0d1117&color=00e1ff&line=0400ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gustavo-pequeno&bg_color=0d1117&color=00e1ff&line=0400ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Guto2404&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gustavo-pequeno&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ### Main skills:
